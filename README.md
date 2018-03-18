@@ -1,2 +1,2 @@
 # -kraskal_algoritm
-My realisation of kraskal algoritm at list, using only recursion
+My realisation of kraskal algoritm at Lisp, using only recursion
